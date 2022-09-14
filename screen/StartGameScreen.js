@@ -66,25 +66,13 @@ const styles = StyleSheet.create({
     marginTop:100,
     paddingHorizontal:4
   },
-  inputContainer: {
-    alignItems: 'center',
-    marginTop: 36,
-    backgroundColor: Colors.primary500,
-    marginHorizontal: 16,
-    padding: 16,
-    borderRadius: 16,
-    shadowColor: 'black',
-    shadowOffset: {width: 0, height: 2},
-    shadowOpacity: 6,
-    shadowRadius: 0.15,
-  },
   instructionText:{
     fontSize:24,
     color:Colors.accent600
   },
   numberText: {
     height: 50,
-    fontSize: 30,
+    fontSize: 28,
     borderBottomWidth: 2,
     borderBottomColor: Colors.accent600,
     color: Colors.accent600,
